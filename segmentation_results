@@ -1,0 +1,1 @@
+{"metadata": {}, "observations": {"default": {"estimated_object_count": {"trait": "estimated object count", "method": "plantcv.plantcv.watershed", "scale": "none", "datatype": "<class 'int'>", "value": 13, "label": "none"}}}}
