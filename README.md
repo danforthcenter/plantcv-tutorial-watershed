@@ -7,7 +7,7 @@ For more information see https://github.com/lsx1980/Leaf_count.
 
 Create a Binder launch button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-watershed/HEAD?labpath=index.ipynb))
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-watershed/HEAD?labpath=index.ipynb)
 
 ## Tutorial tags/keywords
 
