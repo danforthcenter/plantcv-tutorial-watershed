@@ -5,8 +5,6 @@ In this case, the number of objects reported from the analyze watershed function
 of the number of leaves. The Watershed Segmentation Function is a PlantCV function based on code contributed by Suxing Liu, Arkansas State University. 
 For more information see https://github.com/lsx1980/Leaf_count. 
 
-Create a Binder launch button:
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-watershed/HEAD?labpath=index.ipynb)
 
 ## Tutorial tags/keywords
