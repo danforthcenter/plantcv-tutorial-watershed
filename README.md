@@ -11,7 +11,7 @@ For more information see https://github.com/lsx1980/Leaf_count.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-[![Static Badge](https://img.shields.io/badge/Open%20in%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-tutorial-germination)
+[![Static Badge](https://img.shields.io/badge/Open%20in%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-tutorial-watershed)
 
 ## Tutorial tags/keywords
 
