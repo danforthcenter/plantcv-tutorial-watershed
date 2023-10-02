@@ -7,7 +7,7 @@ For more information see https://github.com/lsx1980/Leaf_count.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-watershed/HEAD?labpath=index.ipynb)
 
-<a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-germination">
+<a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-watershed/">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
