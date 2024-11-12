@@ -1,5 +1,7 @@
 # Watershed Segmentation Tutorial
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-watershed/actions/workflows/cs-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-watershed/actions/workflows/cs-tests.yml)
+
 This tutorial uses the analyze watershed segmentation function to roughly segment individual leaves.
 In this case, the number of objects reported from the analyze watershed function is a rough estimation
 of the number of leaves. The Watershed Segmentation Function is a PlantCV function based on code contributed by Suxing Liu, Arkansas State University. 
